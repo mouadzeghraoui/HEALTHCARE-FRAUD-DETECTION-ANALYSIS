@@ -17,7 +17,7 @@ Fraud claims come in different forms such as:
 
   Source : https://legaldictionary.net/health-care-fraud/
 
-  [https://legaldictionary.net/health-care-fraud/]: 	"source"
+  [https://legaldictionary.net/health-care-fraud/]: https://legaldictionary.net/health-care-fraud/	"source"
 
   
 
