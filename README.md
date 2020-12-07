@@ -15,7 +15,7 @@ Fraud claims come in different forms such as:
 
 - Providing a service that is not covered under a patient’s insurance policy, then billing for a service that is covered
 
-  <href = source : https://legaldictionary.net/health-care-fraud/> 
+  Source : https://legaldictionary.net/health-care-fraud/
 
   [https://legaldictionary.net/health-care-fraud/]: 	"source"
 
