@@ -8,16 +8,10 @@ Health care fraud is a crime that involves misrepresenting information,  conceal
 Fraud claims come in different forms such as:
 
 - Using insurance that belongs to someone else
-
 - Failing to remove someone no longer eligible from a policy
-
 - Providing false information in order to receive medical coverage
-
 - Duplicating claims for the same or different patients
-
 - Providing a service that is not covered under a patient’s insurance policy, then billing for a service that is covered
-
-  Source : https://legaldictionary.net/health-care-fraud/
 
 Health care Fraud  is a serious crime that affects everyone and should concern everyone. According to the National Health Care Anti-Fraud Association (NHCAA), the financial lose due to healthcare fraud is more than $100 billion every year, and have a lot of consequences such as: 
 
