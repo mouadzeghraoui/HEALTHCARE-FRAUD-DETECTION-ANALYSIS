@@ -37,7 +37,11 @@ The dataset includes information about:
 
 ## Exploratory Data Analysis
 
+In this part, we merged our Training datasets by our unique IDs, for both providers and patients, and we generate a Data Report, to check the data description,  missing values, correlations .... 
 
+All the features that have 100% missing values for all the observations were removed, and the others we need to investigate more, before we delete them.
+
+After that we ran some initial data analysis, to understand the relationship between our features, and between our features and our target variable "PotentialFraud".
 
 ## Modelling strategy
 
