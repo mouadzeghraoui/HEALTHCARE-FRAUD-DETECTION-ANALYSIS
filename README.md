@@ -46,9 +46,11 @@ After that we ran some initial data analysis, to understand the relationship bet
 ## Modelling strategy
 
 In this part I train and Evaluate my Machine Learning models.
+
 I have used Supervised Machine Learning algorithms to classify Fraudulent behavior of Healthcare providers.
-Logistic Regression Classifier: In order to check linear behavior between dependent and independent variables
-Random Forest Classifier : In order to check no linearity between variables, also Random Forrest has the power of handle large data set with higher dimensionality and identify most significant variables
+
+1. Logistic Regression Classifier: In order to check linear behavior between dependent and independent variables
+2. Random Forest Classifier : In order to check no linearity between variables, also Random Forrest has the power of handle large data set with higher dimensionality and identify most significant variables
 
 
 
@@ -57,12 +59,14 @@ Random Forest Classifier : In order to check no linearity between variables, als
 
 Random forrest model:
 
-`Accuracy Train :  0.8235604860010565
+```
+Accuracy Train :  0.8235604860010565
 Accuracy Test :  0.8176216882316697
 
 AUC         : 0.8610437761637267
 F1-Score Train 0.5984984984984984
-F1-Score Validation :  0.5843205574912892`
+F1-Score Validation :  0.5843205574912892
+```
 
 ## Conclusion
 
