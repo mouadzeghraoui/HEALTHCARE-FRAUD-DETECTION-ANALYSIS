@@ -57,12 +57,12 @@ Random Forest Classifier : In order to check no linearity between variables, als
 
 Random forrest model:
 
-Accuracy Train :  0.8235604860010565
+`Accuracy Train :  0.8235604860010565
 Accuracy Test :  0.8176216882316697
 
 AUC         : 0.8610437761637267
 F1-Score Train 0.5984984984984984
-F1-Score Validation :  0.5843205574912892
+F1-Score Validation :  0.5843205574912892`
 
 ## Conclusion
 
